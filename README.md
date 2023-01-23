@@ -14,7 +14,7 @@ tqdm 4.64.1
 ## SampleInput
 The image obtained by  
 radiomics.getTestCase('lung2')  
-was used.
-<img width="256" alt="lungSample" src="https://user-images.githubusercontent.com/106053283/214072632-1ff3609b-c420-4076-8cc6-66dec54a3ce2.png">
+was used.　　
+<img width="128" alt="lungSample" src="https://user-images.githubusercontent.com/106053283/214072632-1ff3609b-c420-4076-8cc6-66dec54a3ce2.png">
  
 ## SampleResult  
