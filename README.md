@@ -12,18 +12,19 @@ matplotlib 3.5.3
 tqdm 4.64.1  
 
 ## SampleInput
-The image obtained by  
+The sample image obtained by  
 radiomics.getTestCase('lung2')  
 was used.  
 <img width="128" alt="lungSample" src="https://user-images.githubusercontent.com/106053283/214072632-1ff3609b-c420-4076-8cc6-66dec54a3ce2.png">
- 
+Although unconfirmed, any image in the format of the sample image will be visualized.  
+
 ## SampleResult  
 The sample source has a resolution of 64, but the results shown here are with a resolution of 256.  
 ### FirstOrder  
-<img width="500" alt="sampleLungFirstOrder" src="https://user-images.githubusercontent.com/106053283/214075495-3af06272-c580-4dda-a386-ca0ebe3981a7.png">
+<img width="1000" alt="sampleLungFirstOrder" src="https://user-images.githubusercontent.com/106053283/214075495-3af06272-c580-4dda-a386-ca0ebe3981a7.png">
 
 ### GLCM  
-![sampleLungGLCM](https://user-images.githubusercontent.com/106053283/214075600-a9e3f070-a39c-4455-bf03-89dcc30934d0.png)
+![sampleLungGLCM](https://user-images.githubusercontent.com/106053283/214076525-690dd43d-8d51-45a0-9f93-702837facdf6.png)
 
 ### GLDM  
 <img width="500" alt="sampleLungGLDM" src="https://user-images.githubusercontent.com/106053283/214075670-67801201-aab5-49fc-8a37-b5c9f2eecfbf.png">
