@@ -1,5 +1,7 @@
 # PyradiomicsVisualizer
 
+## Abstract  
+Unlike normal operations, this method scans a small mask, computes features, and repositions them as an image.  
 
 ## Library
 
