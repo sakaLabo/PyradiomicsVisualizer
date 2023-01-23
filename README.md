@@ -20,6 +20,8 @@ was used.
 ## SampleResult  
 The sample source has a resolution of 64, but the results shown here are with a resolution of 256.  
 ### FirstOrder
-![sampleLungFirstOrder](https://user-images.githubusercontent.com/106053283/214073206-0873b48e-057e-4761-a199-b69f41a1f500.png)
+
+
+<img width="128" alt="sampleLungFirstOrder" src=https://user-images.githubusercontent.com/106053283/214073422-68e001f1-8479-4f7d-8817-6eb8273b3d4e.png">
 
 ### GLCM  
