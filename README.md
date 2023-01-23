@@ -31,6 +31,7 @@ The sample source has a resolution of 64, but the results shown here are with a 
 ### GLRLM  
 ![sampleLungGLSZM](https://user-images.githubusercontent.com/106053283/214073973-46375692-a673-457a-836e-efa61992e7b3.png)
 
-### NGTDM
+### NGTDM  
 ![sampleLungNGTDM](https://user-images.githubusercontent.com/106053283/214074048-744c7fe8-ee00-4606-8b95-19718a36e2eb.png)
 
+Note that features related to shape cannot be visualized with this tool, although it is obvious.
