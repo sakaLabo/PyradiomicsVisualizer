@@ -19,7 +19,8 @@ was used.
  
 ## SampleResult  
 The sample source has a resolution of 64, but the results shown here are with a resolution of 256.  
-### FirstOrder
+### FirstOrder  
+![sampleLungFirstOrder](https://user-images.githubusercontent.com/106053283/214073725-f7510328-bc2d-4b7e-9ac7-980be4161be0.png)
 
 
 <img width="128" alt="sampleLungFirstOrder" src=https://user-images.githubusercontent.com/106053283/214073422-68e001f1-8479-4f7d-8817-6eb8273b3d4e.png">
