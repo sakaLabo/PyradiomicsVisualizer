@@ -20,18 +20,21 @@ was used.
 ## SampleResult  
 The sample source has a resolution of 64, but the results shown here are with a resolution of 256.  
 ### FirstOrder  
-![sampleLungFirstOrder](https://user-images.githubusercontent.com/106053283/214073725-f7510328-bc2d-4b7e-9ac7-980be4161be0.png)
+<img width="500" alt="sampleLungFirstOrder" src="https://user-images.githubusercontent.com/106053283/214075495-3af06272-c580-4dda-a386-ca0ebe3981a7.png">
 
 ### GLCM  
-![sampleLungGLCM](https://user-images.githubusercontent.com/106053283/214073877-10680d61-557a-4809-affe-f2ad59a5d28f.png)
+![sampleLungGLCM](https://user-images.githubusercontent.com/106053283/214075600-a9e3f070-a39c-4455-bf03-89dcc30934d0.png)
 
 ### GLDM  
-![sampleLungGLDM](https://user-images.githubusercontent.com/106053283/214073921-2e90a1a8-b2e3-4a64-879c-a847a475f6f4.png)
+<img width="500" alt="sampleLungGLDM" src="https://user-images.githubusercontent.com/106053283/214075670-67801201-aab5-49fc-8a37-b5c9f2eecfbf.png">
 
 ### GLRLM  
-![sampleLungGLSZM](https://user-images.githubusercontent.com/106053283/214073973-46375692-a673-457a-836e-efa61992e7b3.png)
+<img width="500" alt="sampleLungGLRLM" src="https://user-images.githubusercontent.com/106053283/214075725-3c06cbbf-c377-4cd0-892b-bf73b178b27f.png">
+
+### GLSZM  
+<img width="500" alt="sampleLungGLSZM" src="https://user-images.githubusercontent.com/106053283/214075870-fed04024-cd36-4a39-9f43-991135e03867.png">
 
 ### NGTDM  
-![sampleLungNGTDM](https://user-images.githubusercontent.com/106053283/214074048-744c7fe8-ee00-4606-8b95-19718a36e2eb.png)
+<img width="500" alt="sampleLungNGTDM" src="https://user-images.githubusercontent.com/106053283/214075800-d31d0044-d055-45fe-ba6e-676b08a8e034.png">
 
 Note that features related to shape cannot be visualized with this tool, although it is obvious.
