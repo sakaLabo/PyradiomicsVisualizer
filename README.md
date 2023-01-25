@@ -2,8 +2,9 @@
 
 ## Abstract  
 This is a tool for visualizing PyRadiomics features.  
-Note that although this visualization tool is effective in identifying features, the meaning of features is somewhat different from that of a normal scan.  
+Although this visualization tool is effective in identifying features, the meaning of features is somewhat different from that of a normal scan.  
 Unlike normal operations, this method scans a small mask, computes features, and repositions them as an image.  
+Please note that this is only a reference tool to deepen your understanding and persuasiveness.  
 
 ## Library
 
