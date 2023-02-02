@@ -20,6 +20,8 @@ was used.
 <img width="128" alt="lungSample" src="https://user-images.githubusercontent.com/106053283/214072632-1ff3609b-c420-4076-8cc6-66dec54a3ce2.png">  
 Although unconfirmed, any image in the format of the sample image will be visualized.  
 
+Please enter an 8-bit grayscale image (extension .tif).  
+
 ## SampleResult  
 The sample source has a resolution of 64, but the results shown here are with a resolution of 256.  
 ### FirstOrder  
