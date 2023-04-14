@@ -9,10 +9,10 @@ import logging
 
 
 # Inputs
-imageDir = 'lungSample.tif'
+imageDir = 'sampleCamera.tif'
+#imageDir = 'lungSample.tif'
 image = sitk.ReadImage(imageDir)
 dstName = 'lungSample'
-
 
 # Parameters
 dstSize = 64 # 2**n (recomend:64)
@@ -79,7 +79,10 @@ for idx, resList in enumerate(resultList):
     plotid = list(range(1, len(resList) + 1 + 1, 1))
     outs = [ndImg]
     for re in resList:
-        outs.append(re)
+        data_arr = numpy.array(re)
+        normalized_data = ((data_arr - numpy.min(data_arr)) / (numpy.max(data_arr) - numpy.min(data_arr))) * 255
+        scaled_data = (normalized_data * 255).astype(numpy.uint8)
+        outs.append(scaled_data)
     for i in range(len(titleList[idx])):
         plt.subplot(row,column,plotid[i])
         plt.tick_params(labelbottom=False, labelleft=False)
