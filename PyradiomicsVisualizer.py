@@ -81,7 +81,7 @@ for idx, resList in enumerate(resultList):
     for re in resList:
         data_arr = numpy.array(re)
         normalized_data = ((data_arr - numpy.min(data_arr)) / (numpy.max(data_arr) - numpy.min(data_arr))) * 255
-        scaled_data = (normalized_data * 255).astype(numpy.uint8)
+        scaled_data = normalized_data.astype(numpy.uint8)
         outs.append(scaled_data)
     for i in range(len(titleList[idx])):
         plt.subplot(row,column,plotid[i])
